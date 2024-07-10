@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @sakethlingerker
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @sakethlingerker
+👀 I’m interested in machine learning
+🌱 I’m currently learning machine learning
+💞️ I’m looking to collaborate on machine learning projects
+📫 How to reach me ...
+
 
 <!---
 sakethlingerker/sakethlingerker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
