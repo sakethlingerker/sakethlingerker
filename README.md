@@ -57,50 +57,70 @@ I'm a passionate **Computer Science Engineer** specializing in **AI/ML systems**
 
 ---
 
-## 💻 Featured Projects
+## 💼 Projects Showcase
+### ⚙️ **MLOps Projects**
 
-### **1. ATS Resume Expert Pro** ⚡
-*AI-powered resume optimization system using Google Gemini AI*
-> **Impact:** Improved resume screening efficiency by **40%**  
-> **Tech Stack:** `Python` `Streamlit` `Gemini AI` `NLP`  
-> [**View Repository →**](https://github.com/sakethlingerker/Resume-Tracking)
+| Project | Description | Live/Repo |
+|:--------|:------------|:----------|
+| **Vehicle Insurance MLOps Pipeline** | Automated machine learning pipeline for insurance data processing | [View Repository](https://github.com/sakethlingerker/MLOPS-Project) |
 
-### **2. Smart-Feedback-Collection-and-Analysis-System ** 📊
-*Real-time sentiment analysis platform for customer feedback*
-> **Impact:** Reduced manual processing time by **60%**  
-> **Tech Stack:** `Flask` `Hugging Face` `JavaScript` `SQLite`  
-> [**View Repository →**](https://github.com/sakethlingerker/Resume-Tracking)
+### 🤖 **AI/ML Projects**
 
-### **3. ClearView-Interactive-Air-Quality-Insights** 🌍
-*Interactive visualization of pollution patterns and air quality*
-> **Impact:** **95% data accuracy**, reduced reporting time by **50%**  
-> **Tech Stack:** `Python` `Power BI` `Streamlit` `Data Visualization`
+| Project | Description | Live/Repo |
+|:--------|:------------|:----------|
+| **ATS Resume Expert Pro** | AI-powered tool that helps optimize resumes for job applications | [View Live](https://resume-tracking-sakethlingerker.streamlit.app/) |
+| **AI Virtual Interior Designer** | Creates custom room designs with material cost estimates using AI | [View Repository](https://github.com/sakethlingerker/AI-Driven-Virtual-Interior-Designer) |
+| **Crop Yield Prediction Model** | Predicts agricultural yields with 97% accuracy for better farming decisions | [View Repository](https://github.com/sakethlingerker/Minor-Project) |
+| **Polyglot AI – Language Detection System** | Identifies text languages for global applications and content processing | [View Repository](https://github.com/sakethlingerker/Polyglot-AI-Language-Detection-System) |
+| **Real-Time Flight Fare Prediction Application** | Predicts flight prices to help travelers find optimal booking times | [View Repository](https://github.com/sakethlingerker/Flight-Price-Prediction) |
+
+### 🌐 **Web Development Projects**
+
+| Project | Description | Live/Repo |
+|:--------|:------------|:----------|
+| **Smart Feedback Collection and Analysis System** | Full-stack platform for managing and analyzing customer feedback | [View Repository](https://github.com/sakethlingerker/Smart-Feedback-Collection-and-Analysis-System) |
+| **Cloudcast - Advanced Weather Application** | Beautiful weather application with 5-day forecasts and location support | [View Live](https://sakethlingerker.github.io/Cloudcast---Advanced-Weather-Application/) |
+
+### 📊 **Data Science Projects**
+
+| Project | Description | Live/Repo |
+|:--------|:------------|:----------|
+| **ClearView – Interactive Air Quality Insights** | Interactive dashboard for monitoring and analyzing air quality data | [View Live](https://air-quality-insight.streamlit.app/) |
+
+<p align="center">
+📖 <strong>Detailed projects:</strong> <a href="https://sakethlingerker.github.io/Portfolio/">Portfolio</a> <br>
+📄 <strong>Resume:</strong> <a href="https://github.com/sakethlingerker/Portfolio/blob/main/assets/Saketh_Lingerker_8688791352.pdf">Download</a>
+</p>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakethlingerker&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakethlingerker&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8) |
 |:---:|:---:|
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saketh_Lingerker&theme=nightowl&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
 
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-| 🏫 Institution | 📜 Certification/Degree | 📅 Year | 🏆 Achievement |
+| 🏫 Institution | 🎓 Degree | 📅 Duration | 📊 Score |
 |:---|:---|:---|:---|
-| **JNTUH University College of Engineering** | B.Tech in Computer Science | 2021-2025 | **CGPA: 7.47** |
-| **IIIT Hyderabad** | AI/ML Research Internship | 2024 | Voice Activity Detection Research |
-| **Amazon Web Services** | AWS Cloud Practitioner | 2024 | Cloud Infrastructure Fundamentals |
-| **College Technical Society** | Coding Club Mentor | 2023-2024 | Led 50+ students in coding workshops |
+| **JNTUH University College of Engineering, Manthani** | B.Tech in Computer Science Engineering | 2021 – 2025 | **CGPA: 7.47** |
 
 ---
+
+## 📜 Certifications & Roles
+
+| 🏅 Title | 🏢 Organization | 📅 Year | 💡 Focus |
+|:---|:---|:---|:---|
+| **AI/ML Research Intern** | IIIT Hyderabad | 2025 | Voice Activity Detection & Transformers |
+| **AWS Cloud Practitioner** | Amazon Web Services | 2024 | Cloud Infrastructure Fundamentals |
+| **Coding Club Mentor** | College Technical Society | 2023 – 2024 | Led 50+ students in coding workshops |
+
 
 ## 📫 Let's Connect!
 
