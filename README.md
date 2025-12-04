@@ -1,15 +1,14 @@
 <div align="center">
 
-![Saketh Lingerker]([https://images.unsplash.com/photo-1518709268805-4e9042af2176?auto=format&fit=crop&w=1200&h=300&q=80&fit=crop](https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?auto=format&fit=crop&w=1600&h=400&q=80
-))
+![Saketh Lingerker](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
   
 # Hi there! I'm Saketh Lingerker 👋  
 **AI Researcher • Full-Stack Developer • Tech Innovator**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sakethlingerker.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0A0A0A?style=for-the-badge&)](https://sakethlingerker.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakethlingerker)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saketh1805@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakethlingerker)
+[![Email](https://img.shields.io/badge/_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saketh1805@gmail.com)
+[![GitHub](https://img.shields.io/badge/_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakethlingerker)
 
 </div>
 
@@ -109,16 +108,15 @@ I'm a passionate **Computer Science Engineer** specializing in **AI/ML systems**
 
 ### 🔗 **Find me across the web:**
 
-[![Portfolio](https://img.shields.io/badge/🌐_sakethlingerker.github.io/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sakethlingerker.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/💼_linkedin.com/in/sakethlingerker-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakethlingerker)
-[![Email](https://img.shields.io/badge/📧_saketh1805@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saketh1805@gmail.com)
-[![Phone](https://img.shields.io/badge/📞_+91_8688791352-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918688791352)
+[![Portfolio](https://img.shields.io/badge/🌐_sakethlingerker.github.io/Portfolio-000000?style=for-the-badge&)](https://sakethlingerker.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/_linkedin.com/in/sakethlingerker-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakethlingerker)
+[![Email](https://img.shields.io/badge/_saketh1805@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saketh1805@gmail.com)
+[![Phone](https://img.shields.io/badge/_+91_8688791352-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918688791352)
 
 ---
 
 ### 🚀 **"Transforming data into intelligent decisions"**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Saketh_Lingerker&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=sakethlingerker&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 ⭐ **Star my repositories if you find something interesting!**
 
