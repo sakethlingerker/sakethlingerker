@@ -111,7 +111,8 @@ I'm a passionate **Computer Science Engineer** specializing in **AI/ML systems**
 [![Portfolio](https://img.shields.io/badge/🌐_sakethlingerker.github.io/Portfolio-000000?style=for-the-badge&)](https://sakethlingerker.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/_linkedin.com/in/sakethlingerker-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakethlingerker)
 [![Email](https://img.shields.io/badge/_saketh1805@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saketh1805@gmail.com)
-[![Phone](https://img.shields.io/badge/_+91_8688791352-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918688791352)
+[![Phone](https://img.shields.io/badge/_+91_8688791352-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918688791352?text=Hi%20Saketh%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20love%20to%20connect!)
+
 
 ---
 
