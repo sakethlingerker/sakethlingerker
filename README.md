@@ -121,6 +121,12 @@ I'm a passionate **Computer Science Engineer** specializing in **AI/ML systems**
 | **AWS Cloud Practitioner** | Amazon Web Services | 2024 | Cloud Infrastructure Fundamentals |
 | **Coding Club Mentor** | College Technical Society | 2023 – 2024 | Led 50+ students in coding workshops |
 
+<div align="center">
+
+![Coding Animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+</div>
+
 
 ## 📫 Let's Connect!
 
