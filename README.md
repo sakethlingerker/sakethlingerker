@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science Engineer** specializing in **AI/ML systems** and **full-stack development**. Currently pursuing my B.Tech at JNTUH (2021-2025), I thrive on building intelligent systems that solve real-world problems. Previously interned as an **AI Research Intern at IIIT-Hyderabad**.
+I'm a passionate **Computer Science Engineer** specializing in **AI/ML systems** and **full-stack development**. I completed my B.Tech from JNTUH (2021-2025), I thrive on building intelligent systems that solve real-world problems. Previously interned as an **AI Research Intern at IIIT-Hyderabad**.
 
 ### ⚡ Key Highlights & Expertise
 
