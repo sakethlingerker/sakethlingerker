@@ -97,8 +97,10 @@ I'm a passionate **Computer Science Engineer** specializing in **AI/ML systems**
 
 <div align="center">
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakethlingerker&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakethlingerker&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8) |
+<!--| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakethlingerker&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakethlingerker&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8) |
 |:---:|:---:|
+-->
+   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saketh_Lingerker&theme=nightowl&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
 
 </div>
