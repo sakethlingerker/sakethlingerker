@@ -3,7 +3,8 @@
 ![Saketh Lingerker](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
   
 # Hi there! I'm Saketh Lingerker 👋  
-**AI Researcher • Full-Stack Developer • Tech Innovator**
+**AI/ML Engineer • Full-Stack Developer • Research Enthusiast**
+
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0A0A0A?style=for-the-badge&)](https://sakethlingerker.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakethlingerker)
@@ -16,7 +17,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science Engineer** specializing in **AI/ML systems** and **full-stack development**. I completed my B.Tech from JNTUH (2021-2025), I thrive on building intelligent systems that solve real-world problems. Previously interned as an **AI Research Intern at IIIT-Hyderabad**.
+I'm a passionate **Computer Science Engineer** specializing in **AI/ML systems** and **full-stack development**. I recently completed my B.Tech from **JNTUH (2021–2025)** and I love building intelligent, scalable products that solve real-world problems.
+
+I worked as an **AI Research Intern at IIIT Hyderabad**, where I contributed to Voice Activity Detection and Transformer-based intelligence systems.
+.
 
 ### ⚡ Key Highlights & Expertise
 
@@ -97,13 +101,21 @@ I'm a passionate **Computer Science Engineer** specializing in **AI/ML systems**
 
 <div align="center">
 
-<!--| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakethlingerker&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakethlingerker&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8) |
-|:---:|:---:|
--->
-   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saketh_Lingerker&theme=nightowl&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=sakethlingerker&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+
+<!-- Streak Stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=sakethlingerker&theme=dark&hide_border=false" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethlingerker&theme=dark&hide_border=false&layout=compact&langs_count=8" />
+
+<!-- Top Contributed Repos -->
+### 🔝 Top Contributed Repos
+<img src="https://github-contributor-stats.vercel.app/api?username=sakethlingerker&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
 </div>
+
 
 ---
 
