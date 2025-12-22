@@ -136,8 +136,6 @@ I previously worked as an **AI Research Intern at IIIT Hyderabad**, where I cont
 
 </div>
 
----
-
 ## 📫 Let’s Connect
 <div align="center">
 
@@ -146,9 +144,8 @@ I previously worked as an **AI Research Intern at IIIT Hyderabad**, where I cont
 [![Email](https://img.shields.io/badge/_saketh1805@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:saketh1805@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/_+91_8688791352-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/918688791352?text=Hi%20Saketh!)
 
----
 
-### 🚀 “Transforming data into intelligent systems”
+
 ![Visitors](https://komarev.com/ghpvc/?username=sakethlingerker&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -157,4 +154,9 @@ I previously worked as an **AI Research Intern at IIIT Hyderabad**, where I cont
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
 
+<!-- <div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+visiting!&fontSize=30)
+
+</div> -->
 
