@@ -102,33 +102,53 @@ I previously worked as an **AI Research Intern at IIIT Hyderabad**, where I cont
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakethlingerker&show_icons=true&theme=dark" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=sakethlingerker&show_icons=true&theme=dark" />-->
 <img src="https://nirzak-streak-stats.vercel.app/?user=sakethlingerker&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethlingerker&theme=dark&layout=compact" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethlingerker&theme=dark&layout=compact" />-->
 
+
+<!--
 ### 🔝 Top Contributions
 <img src="https://github-contributor-stats.vercel.app/api?username=sakethlingerker&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
 ### 🚀 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakethlingerker&theme=react-dark&area=true" />
+-->
 
 </div>
 
 ---
 
 ## 🎓 Education
-| Institution | Degree | Duration | Score |
+| University | Degree | Duration | Score |
 |------------|--------|----------|--------|
 | **JNTUH UCE Manthani** | B.Tech – CSE | 2021 – 2025 | **7.47 CGPA** |
 
 ---
 
-## 📜 Certifications & Roles
-| Title | Organization | Year | Focus |
-|------|-------------|------|--------|
-| AI/ML Research Intern | IIIT Hyderabad | 2025 | VAD & Transformers |
-| AWS Cloud Practitioner | AWS | 2024 | Cloud Fundamentals |
-| Coding Club Mentor | College Tech Society | 2023–24 | Mentorship & Leadership |
+## 📜 Certifications
+
+- **TCS iON National Proficiency Test (NPT – GET IT)**  
+  Certified as *Graduate Engineer Trainee – IT* | **Score: 89%**
+
+- **TCS iON NQT – Cognitive Ability Test**  
+  Overall Score: **91.51%**
+
+- **English Proficiency – British Council (via TCS iON)**  
+  Speaking: **CEFR B1** | Writing: **CEFR B2+**
+
+- **AWS Certified Cloud Practitioner**  
+  Cloud fundamentals, core AWS services, security, and pricing
+
+- **AI/ML Research Internship Certificate**  
+  IIIT Hyderabad – Speech Processing & Transformer-based Models
+
+- **Tata Group – Data Analytics Job Simulation (Forage)**  
+  AI-powered EDA, risk indicators, predictive modeling (Jan 2026)
+
+- **Deloitte Australia – Data Analytics Job Simulation (Forage)**  
+  Forensic data analysis, Tableau dashboards, business insights (Jan 2026)
+  
 
 <div align="center">
 
