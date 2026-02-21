@@ -75,6 +75,7 @@ I previously worked as an **AI Research Intern at IIIT Hyderabad**, where I cont
 ### 🤖 **AI / ML**
 | Project | Description | |
 |--------|-------------|--|
+| **Enterprise Document Q&A AI Agent** | RAG-based AI agent with multi-modal ingestion & agentic workflows | 🔗 [Live](https://enterprise-ready-rag-agent.streamlit.app/) |
 | **ATS Resume Expert Pro** | AI resume analyzer powered by Gemini | 🔗 [Live](https://resume-tracking-sakethlingerker.streamlit.app/) |
 | **AI Virtual Interior Designer** | AI room design + cost estimator | 🔗 [Repo](https://github.com/sakethlingerker/AI-Driven-Virtual-Interior-Designer) |
 | **Polyglot AI** | Language detection system | 🔗 [Repo](https://github.com/sakethlingerker/Polyglot-AI-Language-Detection-System) |
